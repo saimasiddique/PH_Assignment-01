@@ -221,6 +221,20 @@ body
     
  }
 
+ .additional-section h1
+ {
+    color: rgba(0, 0, 0, 0.904));
+    font-weight: 900;
+    font-size: 48px;
+    
+    text-align: center;
+ }
+ .additional-section span
+ {
+     display: inline;
+ }
+
+
  footer
  {
      background-color: black;
@@ -233,5 +247,15 @@ body
     font-size: 36px;
     line-height: 44px;
     text-align: center;
-    padding: 5%;
+    padding: 50px 0px 0px 0px;
+ }
+
+ footer p
+ {
+    font-family: 'Manrope', sans-serif;
+    font-size: 15px;
+    
+    color: rgb(230, 255, 254);
+    text-align: center;
+    padding: 0px 0px 50px 0px;
  }
