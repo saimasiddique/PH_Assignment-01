@@ -52,7 +52,7 @@ body
 {
     
     display: block;
-    background: -webkit-linear-gradient(60deg, rgb(255, 107, 8), rgb(255, 166, 32),rgb(226, 166, 2));
+    background: -webkit-linear-gradient(60deg, rgb(255, 107, 8), rgb(255, 166, 32),rgb(243, 147, 22));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     
@@ -248,7 +248,7 @@ body
  .add-div
  {
     display: flex;
-    margin: 10px 130px 10px 130px;
+    margin: 10px 130px 100px 130px;
     justify-content: space-around;
     
  }
@@ -275,12 +275,11 @@ body
  .web-img img
  {
      width: 500px;
-     height: 400px; 
-     
+     height: 300px; 
+     border-radius: 30px;
+     border: 2px solid rgb(221, 221, 221);
  }
 
- 
-    
  
 
  footer
