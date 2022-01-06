@@ -218,4 +218,20 @@ body
     background-position-x:98%;
     background-position-y: 99%;
     background-repeat: no-repeat;
+    
+ }
+
+ footer
+ {
+     background-color: black;
+ }
+ footer h1{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    padding: 5%;
  }
